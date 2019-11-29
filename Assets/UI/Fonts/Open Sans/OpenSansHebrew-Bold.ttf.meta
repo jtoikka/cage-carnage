@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: e35696f57107c4e25a37c181f84a4951
+timeCreated: 1508353342
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Open Sans Hebrew
+  fontNames:
+  - Open Sans Hebrew
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 85d0006030644402092fd52a99d96af2, type: 3}
+  - {fileID: 12800000, guid: 8caa3fe1b00ad4a4ea6b38a78901f442, type: 3}
+  - {fileID: 12800000, guid: 2291be237407946c99b23f5f08d6947d, type: 3}
+  - {fileID: 12800000, guid: bd7176b388b274330b8a2e85bcf8c16b, type: 3}
+  - {fileID: 12800000, guid: 9df9158748b7a48669be93e1e18f7856, type: 3}
+  - {fileID: 12800000, guid: 3bc8a3f9c6d7f4b1e9634ca2cd5cc5cb, type: 3}
+  - {fileID: 12800000, guid: 3ea4b0dbe80ac46de8f43a23e93a8c07, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
